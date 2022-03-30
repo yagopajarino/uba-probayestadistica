@@ -22,7 +22,7 @@ Las prácticas y evaluaciones están resueltas usando python en lugar de R.
 * [Práctica 8](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P8.pdf) | [solución](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%208.ipynb)
 * [Práctica 9](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P9.pdf) | [solución](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%209.ipynb)
 
-## Resumen entregas
+## Resumen y solución entregas
 
 * [Entrega 1](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Resumen%20entregas/Entrega%201.ipynb)
 * [Entrega 2](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Resumen%20entregas/Entrega%202.ipynb)
