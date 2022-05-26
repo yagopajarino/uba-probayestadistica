@@ -10,9 +10,8 @@ Universidad de Buenos Aires
 
 ## Notas de cursada
 
-Evaluación: cuatro entregas y un parcial integrador. Se permitió el uso de software para los cálculos de entregas y parcial.
-
-Las prácticas y evaluaciones están resueltas usando python en lugar de R.
+ * Evaluación: cuatro entregas y un parcial integrador. Se permitió el uso de software para los cálculos de entregas y parcial.
+ * Las prácticas y evaluaciones están resueltas usando python en lugar de R.
 
 ## Prácticas
 
