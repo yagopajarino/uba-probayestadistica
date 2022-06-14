@@ -15,6 +15,7 @@ Universidad de Buenos Aires
 
 ## Prácticas
 
+* [Práctica 0](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P1.pdf) | [solución](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%200.ipynb)
 * [Práctica 1](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P1.pdf) | [solución](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%201.ipynb)
 * [Práctica 2](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P2.pdf) | [solución](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%202.ipynb)
 * [Práctica 3](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P3.pdf) | [solución](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%203.ipynb)
