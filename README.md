@@ -1,4 +1,4 @@
-# Probabilidad y Estadística
+# Probabilidad y estadística (C)
 
 2do cuatrimestre 2021 \
 Lic. en ciencias de la computación \
