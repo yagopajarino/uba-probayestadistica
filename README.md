@@ -17,16 +17,16 @@ Universidad de Buenos Aires
 
 | Nro | Enunciado                                                                                      | Solucion                                                                                                                 |
 |-----|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| 0   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P0.pdf) | [Soluncion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%200.ipynb) |
-| 1   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P1.pdf) | [Soluncion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%201.ipynb) |
-| 2   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P2.pdf) | [Soluncion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%202.ipynb) |
-| 3   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P3.pdf) | [Soluncion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%203.ipynb) |
-| 4   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P4.pdf) | [Soluncion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%204.ipynb) |
-| 5   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P5.pdf) | [Soluncion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%205.ipynb) |
-| 6   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P6.pdf) | [Soluncion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%206.ipynb) |
-| 7   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P7.pdf) | [Soluncion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%207.ipynb) |
-| 8   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P8.pdf) | [Soluncion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%208.ipynb) |
-| 9   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P9.pdf) | [Soluncion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%209.ipynb) |
+| 0   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P0.pdf) | [solucion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%200.ipynb) |
+| 1   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P1.pdf) | [solucion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%201.ipynb) |
+| 2   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P2.pdf) | [solucion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%202.ipynb) |
+| 3   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P3.pdf) | [solucion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%203.ipynb) |
+| 4   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P4.pdf) | [solucion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%204.ipynb) |
+| 5   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P5.pdf) | [solucion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%205.ipynb) |
+| 6   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P6.pdf) | [solucion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%206.ipynb) |
+| 7   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P7.pdf) | [solucion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%207.ipynb) |
+| 8   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P8.pdf) | [solucion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%208.ipynb) |
+| 9   | [enunciado](https://github.com/yagopajarino/uba-probayestadistica/blob/main/Enunciados/P9.pdf) | [solucion](https://nbviewer.org/github/yagopajarino/uba-probayestadistica/blob/main/Soluciones/Pr%C3%A1ctica%209.ipynb) |
 
 ## Resumen y solución entregas
 
