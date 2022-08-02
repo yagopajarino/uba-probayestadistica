@@ -4,10 +4,6 @@
 Lic. en ciencias de la computación \
 Universidad de Buenos Aires
 
-## Novedades
-
-26/05/2022 | Empiezo a preparar el final de julio. Voy a estar agregando y emprolijando las prácticas.
-
 ## Notas de cursada
 
  * Evaluación: cuatro entregas y un parcial integrador. Se permitió el uso de software para los cálculos de entregas y parcial.
