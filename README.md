@@ -4,8 +4,6 @@
 Lic. en ciencias de la computación \
 Universidad de Buenos Aires
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_3.svg)](https://cafecito.app/yagopajarino)
-
 ## Notas de cursada
 
  * Evaluación: cuatro entregas y un parcial integrador. Se permitió el uso de software para los cálculos de entregas y parcial.
